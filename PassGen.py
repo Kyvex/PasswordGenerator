@@ -1,3 +1,7 @@
+"""
+Free to use password generator script
+"""
+
 import random, os, sys, datetime
 from sys import platform
 
